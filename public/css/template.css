@@ -1,0 +1,53 @@
+
+/***************
+	NUS - BANNER
+***************/
+.nus-banner{padding:0;margin:0;background:#003d7c;}
+.nus-banner img{width:100%;}
+.nus-banner .btn-primary{background:#ef7c00;border-color:#ff6600;}
+
+.nus-banner .carousel .item{height:500px;background:#003d7c;}
+
+@media screen and (max-width:767px) {
+    .nus-banner{margin-bottom:30px;}
+}
+
+.nus-components{margin-top:40px;margin-bottom:40px;}
+.nus-components.item-page2{min-height:500px;}
+.nus-components div[class*="col-"]{margin-bottom:30px;}
+.nus-components .page-header{margin-top:0;}
+.nus-components h2{margin:0 0 20px 0;}
+.nus-components .table2{border:0;}
+
+
+/***********************************
+	FEATURED - ARTICLES - HOMEPAGE
+************************************/
+.nus-featured-articles{margin:40px 0;}
+.nus-featured-articles img{width:100%;}
+.nus-featured-articles .row > div{margin:0 0 20px 0;}
+
+@media screen and (max-width:767px) {
+    .nus-featured-articles{margin:0 0 40px 0;}
+    .nus-featured-articles .intro-image{text-align:center;}
+    .nus-featured-articles img{width:inherit;}
+}
+
+/***********************************
+	FEATURETTE
+***********************************/
+.featurette-heading{font-size:50px;}
+.featurette-divider {margin: 80px 0;}
+.featurette{vertical-align:middle;}
+.featurette-image{max-width:100%;}
+@media screen and (max-width:991px) {
+    .featurette{text-align:center;}
+}
+
+/**********************************
+	MASTHEAD
+**********************************/
+.nus-jumbotron{background:transparent;text-align:center;
+    border-radius:0;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;}
