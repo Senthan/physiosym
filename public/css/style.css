@@ -4,3 +4,39 @@
     margin-left: auto;
     margin-right: auto
 }
+
+@media (min-width: 576px) {
+    .img-height {
+        height: 800px !important;
+
+    }
+}
+
+
+@media (max-width: 576px) {
+    .heading {
+        text-align: center;
+        font-size: 13px;
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 576px) {
+    .heading {
+        text-align: center;
+        font-size: -webkit-xxx-large;
+    }
+}
+
+@media (min-width: 576px) {
+    .heading2 {
+        text-align: center; font-size: 26px;font-weight: bold;
+    }
+}
+@media (max-width: 576px) {
+    .heading2 {
+        text-align: center;
+        font-size: 13px;
+        font-weight: bold;
+    }
+}

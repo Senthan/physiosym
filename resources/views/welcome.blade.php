@@ -62,11 +62,11 @@
                     <div class="col-lg-12">
                         <div class="col-lg-12">
                             <a name="Venue" id="Venue" data-target="#Venue"> </a>
-                            <h2 style="text-align: center;font-size: -webkit-xxx-large;">Mark Mattson International Neuroscience Symposium</h2>
+                            <h2 class="heading">Mark Mattson International Neuroscience Symposium</h2>
                             <p>
-                                <img style="height: 800px;" src="files/mattson.jpg" alt="CeLS" class="img-responsive displayed">
+                                <img style="" src="files/mattson.jpg" alt="CeLS" class="img-responsive displayed img-height">
                             </p>
-                            <p style="text-align: center; font-size: 26px;font-weight: bold;"> Johns Hopkins University Mountcastle Auditorium
+                            <p class="heading2" style=""> Johns Hopkins University Mountcastle Auditorium
                                 <br/> <span>June 3rd 2019</span>
 
                             </p>
@@ -81,7 +81,7 @@
                         <a name="Registration" id="Registration"> </a>
                         <h2>REGISTRATION</h2>
 
-                        {{--<a role="button" href="https://goo.gl/forms/UP5N2tLOUnH2AHPX2" class="btn btn-danger btn-lg">Registration</a>--}}
+                        <a role="button" href="https://docs.google.com/forms/d/e/1FAIpQLSdDuixsqj9-C6bHlQh1WkrfcRUHvw_sfSMBBf6Gyq_5O8NODw/viewform?usp=sf_link" class="btn btn-danger btn-lg">Registration</a>
                         <p></p>
 
                         <p>Registration Deadline:
